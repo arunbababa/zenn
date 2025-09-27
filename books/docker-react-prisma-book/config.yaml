@@ -1,0 +1,22 @@
+title: "Docker×React×PostgreSQL フルスタック環境構築ガイド"
+summary: "React・Express・Prisma・PostgreSQLを Docker Compose で一括起動できる環境を構築するチュートリアルです。"
+topics:
+  - docker
+  - react
+  - typescript
+  - prisma
+  - postgresql
+published: false
+price: 0
+chapters:
+  - intro
+  - prerequisites
+  - project-overview
+  - step1-init
+  - step2-docker-web
+  - step3-prisma-db
+  - step4-express-api
+  - step5-react-integration
+  - step6-compose
+  - appendix
+toc_depth: 2
