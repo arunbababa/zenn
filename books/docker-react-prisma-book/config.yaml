@@ -6,7 +6,8 @@ topics:
   - typescript
   - prisma
   - postgresql
-published: false
+published: true
+published_at: 2025-01-27 08:00
 price: 0
 chapters:
   - intro
